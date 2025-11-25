@@ -1,9 +1,13 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-<!--
-**neduboy7/neduboy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+My name is Kevin, and i'm a Bsc computer science undergraduate interestd in all things coding and game production!
+
+- 🔭 I’m currently working on Osondu, a 2.5D metroidvania game that's based of the culture of the igbo tribe in Nigeria
+- 🌱 I’m currently learning python, c++ and c#
+- 👯 I’m looking to collaborate on making more games,
+-  send me ideas on 0onuoc51@solent.ac.uk!
+
+    **neduboy7/neduboy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
